@@ -2,7 +2,13 @@ R code for all problems can be found in the Annex.
 
 #### Gradient Descent for Multiple Linear Regression
 
-Please write down the gradient <img src="https://raw.githubusercontent.com/jrecasens/Georgia-Tech/master/New%20folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
+Please write down the gradient 
+
+<img src="https://raw.githubusercontent.com/jrecasens/Georgia-Tech/master/New%20folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
+
+<img src="https://raw.githubusercontent.com/jrecasens/Georgia-Tech/master/New%20folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
+
+https://raw.githubusercontent.com/jrecasens/Georgia-Tech/master/New%20folder/svgs/a092144e744b784c026531aeb02ebe05.svg
 
 **Solution**
 <p align="center"><img src="https://rawgit.com/jrecasens/Georgia-Tech/master/svgs/3b97788ea3acfd0a3b5f251be3ac14fb.svg?invert_in_darkmode" align=middle width=382.70925pt height=145.89366pt/></p>

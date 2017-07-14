@@ -117,9 +117,9 @@ convergence.
 We obtain the following three plots for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/svgs/53d44ced554cb6b52a05021a96bb5d55.svg?invert_in_darkmode" align=middle width=96.40719pt height=22.83105pt/>:
 
 <p align="center">
-  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P2_Plot10.png.png" width= "60%" height= "60%">
-  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P2_Plot25.png.png" width= "60%" height= "60%">
-  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P2_Plot100.png.png" width= "60%" height= "60%">
+  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/P2_Plot10.png" width= "60%" height= "60%">
+  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/P2_Plot25.png" width= "60%" height= "60%">
+  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/P2_Plot100.png" width= "60%" height= "60%">
 </p>
 
 We can see that as <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83105pt/> increases the algorithm converges faster. Almost
@@ -172,7 +172,7 @@ closer at each iteration.
 The final similarity measure <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/svgs/98a8470efd8ac57373ee8ba762c3dbac.svg?invert_in_darkmode" align=middle width=74.849115pt height=24.6576pt/> is 0.007513874.
 
 <p align="center">
-  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P3_Plota.png" width= "60%" height= "60%">
+  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/P3_Plota.png" width= "60%" height= "60%">
 </p>
 
 Setting decreasing step sizes <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/svgs/c0e8998d58453399064b8005c52bdbce.svg?invert_in_darkmode" align=middle width=113.0778pt height=24.6576pt/> at <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/svgs/77a3b857d53fb44e33b53e4c8b68351a.svg?invert_in_darkmode" align=middle width=5.663295pt height=21.68298pt/>th iteration.
@@ -186,5 +186,5 @@ the convergence is slower, we have a smoother plot that converges to a
 more precise eigenvector <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/svgs/6c4adbc36120d62b98deef2a20d5d303.svg?invert_in_darkmode" align=middle width=8.55789pt height=14.15535pt/>.
 
 <p align="center">
-  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P3_Plotb.png" width= "60%" height= "60%">
+  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/P3_Plotb.png" width= "60%" height= "60%">
 </p>

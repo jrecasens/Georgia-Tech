@@ -76,17 +76,9 @@ iterations to demonstrate the convergence of your algorithm.
 **Solution**
 After running 50 iterations we plot <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/ded7fd9e3caee9ddd7dfb775c93bbcf3.svg?invert_in_darkmode" align=middle width=31.781475pt height=24.6576pt/> versus number of iterations. We can see that the convergence of our algorithm is very fast:
 
-![image](../img/P1d_Plot.png)
-
-<p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/img/P1d_Plot.png"></p>
-
 <p align="center">
-  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png" style="width: 50%; height: 50%">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png" style="width: 20%; height: 20%">
 </p>
-
-
-![image](https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png)
-
 
 
 

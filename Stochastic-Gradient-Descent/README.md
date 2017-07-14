@@ -1,4 +1,4 @@
-## Gradient Descent and Stochastic Gradient Descent for Multiple Linear Regression iterative implementation.
+## Gradient Descent and Stochastic Gradient Descent iterative implementation for Multiple Linear Regression.
 ### Course: ISYE 6740: Computational Data Analysis - Spring 2017
 
 <p align="center">

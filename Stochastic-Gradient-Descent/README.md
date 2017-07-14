@@ -4,9 +4,6 @@
 #### a.- Please write down the gradient of 
 <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
 
-<img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/svgs/a092144e744b784c026531aeb02ebe05.svg" align=middle width=46.08219pt height=24.6576pt/>.
-
-
 **Solution**
 <p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/3b97788ea3acfd0a3b5f251be3ac14fb.svg?invert_in_darkmode" align=middle width=382.70925pt height=145.89366pt/></p>
 

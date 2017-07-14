@@ -1,7 +1,6 @@
 # Clustering the Semeion Handwritten Digits using the EM algorithm
 
-### In this project we will cluster handwritten digits data using the EM algorithm with a principle components
-step within each maximization as described in the EM Algorithm for a Principle Components Gaussian Mixture Model.
+### In this project we will cluster handwritten digits data using the EM algorithm with a principle components step within each maximization as described in the EM Algorithm for a Principle Components Gaussian Mixture Model.
 
 Contents in folder:
 

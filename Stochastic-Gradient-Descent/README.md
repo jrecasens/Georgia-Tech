@@ -1,7 +1,8 @@
-## Clustering the Semeion Handwritten Digits using the expectation–maximization (EM) algorithm
+## Gradient Descent and Stochastic Gradient Descent for Multiple Linear Regression iterative implementation.
 ### Course: ISYE 6740: Computational Data Analysis - Spring 2017
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/EM_Clustering_of_Old_Faithful_data.gif" width="350"/>
+  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/Grad.png" width= "60%" height= "60%">
 </p>
 
 In this project we will cluster handwritten digits data using the EM algorithm with a principle components step within each maximization. The contents in the folder are:

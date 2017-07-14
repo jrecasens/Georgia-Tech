@@ -5,11 +5,14 @@ R code for all problems can be found in the Annex.
 Please write down the gradient 
 
 <img src="https://raw.githubusercontent.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
+<img src="https://raw.githubusercontent.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg>.
 
 https://raw.githubusercontent.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg
 
 <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
+<img src="https://github.com/jrecasens/Georgia-Tech/blob/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg>.
 
+https://github.com/jrecasens/Georgia-Tech/blob/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg
 
 
 **Solution**

@@ -146,6 +146,24 @@ Mini-batch Stochastic Gradient Descent (b=25) : 0.0000656
 
 Mini-batch Stochastic Gradient Descent (b=100) : 0.0000310
 
+$$
+\begin{center}
+	\begin{tabular}{||c c||} 
+		\hline
+		Algorithm & MSE \\ [0.5ex] 
+		\hline\hline
+		Stochastic Gradient Descent (b=1) & 0.0021607 \\ 
+		\hline
+		Mini-batch Stochastic Gradient Descent (b=10) & 0.0000590 \\
+		\hline
+		Mini-batch Stochastic Gradient Descent (b=25) & 0.0000656  \\
+		\hline
+		Mini-batch Stochastic Gradient Descent (b=100) & 0.0000310 \\
+		\hline
+	\end{tabular}
+\end{center}
+$$
+
 The larger the <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83105pt/> the smaller is the MSE. Is not only converging faster
 but we get better results for larger batches.
 

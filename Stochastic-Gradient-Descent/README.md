@@ -5,7 +5,7 @@
   <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/Grad.png" width= "30%" height= "30%">
 </p>
 
-In this exercise we will demonstrate convergence of a few algorithms and implement in R iterative procedures from scratch. The contents are:
+In this exercise we will demonstrate convergence of algorithms for the Multiple Linear Regression model and their implemention in R with iterative procedures. The contents are:
 
 - Problem Statement.pdf: Description of the problem.
 - Solution.Rmd: Solution of the problem.

@@ -1,7 +1,7 @@
 
-### Gradient Descent for Multiple Linear Regression
+### 1.- Gradient Descent for Multiple Linear Regression
 
-#### 1.- Please write down the gradient of <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
+#### a.- Please write down the gradient of <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
 
 **Solution**
 <p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/3b97788ea3acfd0a3b5f251be3ac14fb.svg?invert_in_darkmode" align=middle width=382.70925pt height=145.89366pt/></p>
@@ -10,7 +10,7 @@ Derivative with respect to <img src="https://rawgithub.com/jrecasens/Georgia-Tec
 
 <p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/8695802e37e3bf39ca2f225bddaf221c.svg?invert_in_darkmode" align=middle width=226.3107pt height=112.89366pt/></p>
 
-#### 2.- Please write down the step size you use in every iteration and explain why you use it.
+#### b.- Please write down the step size you use in every iteration and explain why you use it.
 
 **Solution**
 
@@ -40,7 +40,7 @@ fixed step size:
 
 <p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/11bf157475aa7824cccf265c28b857f9.svg?invert_in_darkmode" align=middle width=109.13298pt height=36.99366pt/></p>
 
-Please explain the rule of stopping your gradient descent algorithm.
+#### c.- Please explain the rule of stopping your gradient descent algorithm.
 
 **Solution**
 
@@ -65,7 +65,7 @@ The stopping rules that we will use:
     number of iterations need to be specified, so if the above are not
     met the algorithm will stop after a finite number of iterations.
 
-Please draw a plot of <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/19f438a01644cc2d435fe2163d646892.svg?invert_in_darkmode" align=middle width=32.38356pt height=24.6576pt/> versus number of
+#### d.- Please draw a plot of <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/19f438a01644cc2d435fe2163d646892.svg?invert_in_darkmode" align=middle width=32.38356pt height=24.6576pt/> versus number of
 iterations to demonstrate the convergence of your algorithm.
 
 **Solution**
@@ -75,7 +75,7 @@ After running 50 iterations we plot <img src="https://rawgithub.com/jrecasens/Ge
   <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png" width= "60%" height= "60%">
 </p>
 
-Please compare the result <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/e387e855178ab0e675692dd4a9da5edc.svg?invert_in_darkmode" align=middle width=16.033215pt height=22.83105pt/> returned by your algorithm with the
+#### e.- Please compare the result <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/e387e855178ab0e675692dd4a9da5edc.svg?invert_in_darkmode" align=middle width=16.033215pt height=22.83105pt/> returned by your algorithm with the
 true <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/8217ed3c32a785f0b5aad4055f432ad8.svg?invert_in_darkmode" align=middle width=10.16565pt height=22.83105pt/> by computing the mean squared error
 <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/6cfccd7ca4e66b5ff16a69bf0a6a5263.svg?invert_in_darkmode" align=middle width=93.927405pt height=24.73119pt/>.
 
@@ -87,10 +87,9 @@ The mean squared error (MSE) is:
 This is a very small MSE which was reached very fast. Our step size
 choice was very good.
 
-#### Stochastic Gradient Descent for Multiple Linear Regression
+#### 2.- Stochastic Gradient Descent for Multiple Linear Regression
 
-
-Please draw a plot for the value of objective function <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a333cbd1b4d2f846776de883fae2f5f1.svg?invert_in_darkmode" align=middle width=29.92407pt height=24.6576pt/> versus
+#### a.- Please draw a plot for the value of objective function <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a333cbd1b4d2f846776de883fae2f5f1.svg?invert_in_darkmode" align=middle width=29.92407pt height=24.6576pt/> versus
 the number of iterations to demonstrate the convergence.
 
 **Solution**
@@ -101,13 +100,15 @@ The one statistical unit gradient is:
 The plot of objective function <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a333cbd1b4d2f846776de883fae2f5f1.svg?invert_in_darkmode" align=middle width=29.92407pt height=24.6576pt/> versus the number of
 iterations is:
 
-![image](../R/P2_Plot1)
+<p align="center">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P2_Plot1.png" width= "60%" height= "60%">
+</p>
 
 We can see that with almost 1000 iterations the algorithm keeps looking
 for an optimal value of the loss function. Convergence is not fast and
 is not apparent that it has reached the minimum.
 
-Please draw three plots with <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/53d44ced554cb6b52a05021a96bb5d55.svg?invert_in_darkmode" align=middle width=96.40719pt height=22.83105pt/> for the value of objective
+#### b.- Please draw three plots with <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/53d44ced554cb6b52a05021a96bb5d55.svg?invert_in_darkmode" align=middle width=96.40719pt height=22.83105pt/> for the value of objective
 function <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a333cbd1b4d2f846776de883fae2f5f1.svg?invert_in_darkmode" align=middle width=29.92407pt height=24.6576pt/> versus the number of iterations to demonstrate the
 convergence.
 
@@ -115,15 +116,17 @@ convergence.
 
 We obtain the following three plots for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/53d44ced554cb6b52a05021a96bb5d55.svg?invert_in_darkmode" align=middle width=96.40719pt height=22.83105pt/>:
 
-![image](../P2_Plot10.png) 
-![image](../P2_Plot25.png)
-![image](../P2_Plot100.png)
+<p align="center">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P2_Plot10.png.png" width= "60%" height= "60%">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P2_Plot25.png.png" width= "60%" height= "60%">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P2_Plot100.png.png" width= "60%" height= "60%">
+</p>
 
 We can see that as <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83105pt/> increases the algorithm converges faster. Almost
 250 iterations for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/7db7f7e73e60c422dd021d31b5e5d673.svg?invert_in_darkmode" align=middle width=42.878715pt height=22.83105pt/>, 100 iterations for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/46e2ede37887084895560b57252748a3.svg?invert_in_darkmode" align=middle width=42.878715pt height=22.83105pt/> and about 20
 iterations for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/01c68b782233f7c21f731ee734f7c74e.svg?invert_in_darkmode" align=middle width=51.09786pt height=22.83105pt/>.
 
-Please compare the result <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/e387e855178ab0e675692dd4a9da5edc.svg?invert_in_darkmode" align=middle width=16.033215pt height=22.83105pt/> returned by your algorithm with the
+#### c.- Please compare the result <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/e387e855178ab0e675692dd4a9da5edc.svg?invert_in_darkmode" align=middle width=16.033215pt height=22.83105pt/> returned by your algorithm with the
 true <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/8217ed3c32a785f0b5aad4055f432ad8.svg?invert_in_darkmode" align=middle width=10.16565pt height=22.83105pt/> by computing the mean squared error
 <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/6cfccd7ca4e66b5ff16a69bf0a6a5263.svg?invert_in_darkmode" align=middle width=93.927405pt height=24.73119pt/>.
 
@@ -152,7 +155,7 @@ Mini-batch Stochastic Gradient Descent (b=100) : 0.0000310
 The larger the <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83105pt/> the smaller is the MSE. Is not only converging faster
 but we get better results for larger batches.
 
-#### Online Principal Component Analysis.
+#### 3.- Online Principal Component Analysis.
 
 
 Please draw a plot for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/6bf4a9ee6dec96d14ae4a65878b73df8.svg?invert_in_darkmode" align=middle width=71.549115pt height=24.6576pt/> versus number of iterations, where
@@ -168,7 +171,9 @@ closer at each iteration.
 
 The final similarity measure <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/98a8470efd8ac57373ee8ba762c3dbac.svg?invert_in_darkmode" align=middle width=74.849115pt height=24.6576pt/> is 0.007513874.
 
-![image](../R/P3_Plota)
+<p align="center">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P3_Plota.png" width= "60%" height= "60%">
+</p>
 
 Setting decreasing step sizes <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/c0e8998d58453399064b8005c52bdbce.svg?invert_in_darkmode" align=middle width=113.0778pt height=24.6576pt/> at <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/77a3b857d53fb44e33b53e4c8b68351a.svg?invert_in_darkmode" align=middle width=5.663295pt height=21.68298pt/>th iteration.
 Please draw a plot for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/6bf4a9ee6dec96d14ae4a65878b73df8.svg?invert_in_darkmode" align=middle width=71.549115pt height=24.6576pt/> versus number of iterations.
@@ -180,4 +185,6 @@ Almost 10 times better accuracy than the previous result. Even though
 the convergence is slower, we have a smoother plot that converges to a
 more precise eigenvector <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/6c4adbc36120d62b98deef2a20d5d303.svg?invert_in_darkmode" align=middle width=8.55789pt height=14.15535pt/>.
 
-![image](../R/P3_Plotb)
+<p align="center">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P3_Plotb.png" width= "60%" height= "60%">
+</p>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png" width= "60%" height= "60%">
+</p>
+
 
 ### 1.- Gradient Descent for Multiple Linear Regression
 

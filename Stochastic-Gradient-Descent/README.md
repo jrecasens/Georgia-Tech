@@ -74,8 +74,7 @@ Please draw a plot of <img src="https://rawgithub.com/jrecasens/Georgia-Tech/mas
 iterations to demonstrate the convergence of your algorithm.
 
 **Solution**
-After running 50 iterations we plot <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/ded7fd9e3caee9ddd7dfb775c93bbcf3.svg?invert_in_darkmode" align=middle width=31.781475pt height=24.6576pt/> versus number of
-iterations. We can see that the convergence of our algorithm is very fast:
+After running 50 iterations we plot <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/ded7fd9e3caee9ddd7dfb775c93bbcf3.svg?invert_in_darkmode" align=middle width=31.781475pt height=24.6576pt/> versus number of iterations. We can see that the convergence of our algorithm is very fast:
 
 ![image](../img/P1d_Plot.png)
 
@@ -84,6 +83,15 @@ iterations. We can see that the convergence of our algorithm is very fast:
 <p align="center">
   <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/img/P1d_Plot.png"/>
 </p>
+
+
+![image](https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png)
+
+
+
+
+
+
 
 Please compare the result <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/e387e855178ab0e675692dd4a9da5edc.svg?invert_in_darkmode" align=middle width=16.033215pt height=22.83105pt/> returned by your algorithm with the
 true <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/8217ed3c32a785f0b5aad4055f432ad8.svg?invert_in_darkmode" align=middle width=10.16565pt height=22.83105pt/> by computing the mean squared error

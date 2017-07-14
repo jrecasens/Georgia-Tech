@@ -78,7 +78,11 @@ After running 50 iterations we plot <img src="https://rawgithub.com/jrecasens/Ge
 iterations. We can see that the convergence of our algorithm is very
 fast:
 
-![image](../R/P1d_Plot)
+![image](https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/img/P1d_Plot.png)
+
+
+
+
 
 Please compare the result <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/e387e855178ab0e675692dd4a9da5edc.svg?invert_in_darkmode" align=middle width=16.033215pt height=22.83105pt/> returned by your algorithm with the
 true <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/8217ed3c32a785f0b5aad4055f432ad8.svg?invert_in_darkmode" align=middle width=10.16565pt height=22.83105pt/> by computing the mean squared error
@@ -120,9 +124,9 @@ convergence.
 
 We obtain the following three plots for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/53d44ced554cb6b52a05021a96bb5d55.svg?invert_in_darkmode" align=middle width=96.40719pt height=22.83105pt/>:
 
-![image](../R/P2_Plot10) 
-![image](../R/P2_Plot25)
-![image](../R/P2_Plot100)
+![image](../P2_Plot10.png) 
+![image](../P2_Plot25.png)
+![image](../P2_Plot100.png)
 
 We can see that as <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83105pt/> increases the algorithm converges faster. Almost
 250 iterations for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/7db7f7e73e60c422dd021d31b5e5d673.svg?invert_in_darkmode" align=middle width=42.878715pt height=22.83105pt/>, 100 iterations for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/46e2ede37887084895560b57252748a3.svg?invert_in_darkmode" align=middle width=42.878715pt height=22.83105pt/> and about 20
@@ -145,6 +149,14 @@ Mini-batch Stochastic Gradient Descent (b=10) : 0.0000590
 Mini-batch Stochastic Gradient Descent (b=25) : 0.0000656
 
 Mini-batch Stochastic Gradient Descent (b=100) : 0.0000310
+
+| Algorithm  |  MSE |
+| ------------- | ------------- |
+| Stochastic Gradient Descent (b=1)   | 0.0021607  |
+| Mini-batch Stochastic Gradient Descent (b=10)   | 0.0000590  |
+| Mini-batch Stochastic Gradient Descent (b=25)   | 0.0000656  |
+| Mini-batch Stochastic Gradient Descent (b=100)   | 0.0000310  |
+
 
 The larger the <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83105pt/> the smaller is the MSE. Is not only converging faster
 but we get better results for larger batches.

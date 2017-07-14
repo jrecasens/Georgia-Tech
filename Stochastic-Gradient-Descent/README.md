@@ -2,7 +2,7 @@
 ### Course: ISYE 6740: Computational Data Analysis - Spring 2017
 
 <p align="center">
-  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/Grad.png" width= "60%" height= "60%">
+  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/Grad.png" width= "30%" height= "30%">
 </p>
 
 In this project we will cluster handwritten digits data using the EM algorithm with a principle components step within each maximization. The contents in the folder are:

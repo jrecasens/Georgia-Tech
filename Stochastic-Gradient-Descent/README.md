@@ -81,14 +81,11 @@ After running 50 iterations we plot <img src="https://rawgithub.com/jrecasens/Ge
 <p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/img/P1d_Plot.png"></p>
 
 <p align="center">
-  <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/img/P1d_Plot.png"/>
+  <img src="https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png" style="width: 50%; height: 50%">
 </p>
 
 
 ![image](https://github.com/jrecasens/Georgia-Tech/blob/master/Stochastic-Gradient-Descent/img/P1d_Plot.png)
-
-
-
 
 
 

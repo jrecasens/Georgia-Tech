@@ -1,14 +1,17 @@
-## Gradient Descent and Stochastic Gradient Descent iterative implementation for Multiple Linear Regression.
+## Gradient Descent, Stochastic Gradient Descent and Oja's algorithm (Online PCA) implementations
 ### Course: ISYE 6740: Computational Data Analysis - Spring 2017
 
 <p align="center">
   <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/img/Grad.png" width= "30%" height= "30%">
 </p>
 
-In this project we will cluster handwritten digits data using the EM algorithm with a principle components step within each maximization. The contents in the folder are:
+In this exercise we will demonstrate convergence of a few algorithms and implement in R iterative procedures from scratch.
 
-- Problem Statement.pdf: Description of the problem and EM Algorithm for a Principle Components Gaussian Mixture Model.
+- Problem Statement.pdf: Description of the problem.
 - Solution.Rmd: Solution of the problem.
-- semeion.csv: Semeion Handwritten Digit Dataset (1593 handwritten digits written by a total of 80 individuals).
-- MainCode.R: Complete code in R.
+- R folder: R implementation for Gradient Descent for Multiple Linear Regression, Stochastic Gradient Descent for Multiple Linear Regression and Online Principal Component Analysis.
+- MLR.csv: Dataset for Gradient Descent problems.
+- OPCA.csv: Dataset for Online Principal Component Analysis problem.
+- True_Beta.csv: True regression coefficients for the Gradient Descent problems.
+- True_eigvector.csv: True top eigenvector for the Online Principal Component Analysis problem.
 

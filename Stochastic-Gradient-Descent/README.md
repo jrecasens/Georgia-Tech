@@ -1,21 +1,16 @@
-R code for all problems can be found in the Annex.
 
-#### Gradient Descent for Multiple Linear Regression
+### Gradient Descent for Multiple Linear Regression
 
-Please write down the gradient 
-
-<img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
+#### 1.- Please write down the gradient of <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/a092144e744b784c026531aeb02ebe05.svg?invert_in_darkmode" align=middle width=46.08219pt height=24.6576pt/>.
 
 **Solution**
 <p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/3b97788ea3acfd0a3b5f251be3ac14fb.svg?invert_in_darkmode" align=middle width=382.70925pt height=145.89366pt/></p>
 
-            
 Derivative with respect to <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/b40aa6b23d5447452eba56d9bda8960d.svg?invert_in_darkmode" align=middle width=11.40414pt height=22.83105pt/>:
 
 <p align="center"><img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/8695802e37e3bf39ca2f225bddaf221c.svg?invert_in_darkmode" align=middle width=226.3107pt height=112.89366pt/></p>
 
-Please write down the step size you use in every iteration and explain
-why you use it.
+#### 2.- Please write down the step size you use in every iteration and explain why you use it.
 
 **Solution**
 

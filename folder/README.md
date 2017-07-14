@@ -120,9 +120,9 @@ convergence.
 
 We obtain the following three plots for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/53d44ced554cb6b52a05021a96bb5d55.svg?invert_in_darkmode" align=middle width=96.40719pt height=22.83105pt/>:
 
-![image](../R/P2_Plot10) 
-![image](../R/P2_Plot25)
-![image](../R/P2_Plot100)
+![image](../P2_Plot10.png) 
+![image](../P2_Plot25.png)
+![image](../P2_Plot100.png)
 
 We can see that as <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83105pt/> increases the algorithm converges faster. Almost
 250 iterations for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/7db7f7e73e60c422dd021d31b5e5d673.svg?invert_in_darkmode" align=middle width=42.878715pt height=22.83105pt/>, 100 iterations for <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/folder/svgs/46e2ede37887084895560b57252748a3.svg?invert_in_darkmode" align=middle width=42.878715pt height=22.83105pt/> and about 20

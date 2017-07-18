@@ -1,7 +1,7 @@
 
 <p align="center">
-<b><font size="10">Georgia Tech - MS in Analytics Projects</font></b>
-<p>
+<b><font size="12">Georgia Tech - MS in Analytics Projects</font></b>
+<br>
   <img src="http://www.comm.gatech.edu/sites/comm.gatech.edu/files/images/georgia-institute-of-technology-874black_0.png" width= "30%" height= "30%">
 </p>
 

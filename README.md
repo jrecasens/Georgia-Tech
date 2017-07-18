@@ -1,5 +1,6 @@
-## Georgia Tech - MS in Analytics Projects
+
 <p align="center">
+   ## Georgia Tech - MS in Analytics Projects
   <img src="http://www.comm.gatech.edu/sites/comm.gatech.edu/files/images/georgia-institute-of-technology-874black_0.png" width= "30%" height= "30%">
 </p>
 

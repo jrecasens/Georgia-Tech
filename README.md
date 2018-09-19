@@ -1,9 +1,6 @@
 
 <p align="center">
-<b><font size="7">Georgia Tech - MS in Analytics Projects</font></b>
 <br>
-  
-
   <img src="https://rawgithub.com/jrecasens/Georgia-Tech/master/logo.PNG" width= "30%" height= "30%">    
 </p>
 

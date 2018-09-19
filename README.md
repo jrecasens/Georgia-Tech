@@ -4,8 +4,8 @@
 <br>
   
 
-  <img src="logo.png" width= "30%" height= "30%">
-
+  <img src="ttps://rawgithub.com/jrecasens/Georgia-Tech/master/Stochastic-Gradient-Descent/logo.PNG" width= "30%" height= "30%">
+  
 
 </p>
 

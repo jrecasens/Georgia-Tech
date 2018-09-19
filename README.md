@@ -3,9 +3,9 @@
 <b><font size="7">Georgia Tech - MS in Analytics Projects</font></b>
 <br>
   
-  <div style="background-color:lightblue">
-  <img src="ms-analytics-solid-2lines-white_0.png" width= "30%" height= "30%">
-</div>
+
+  <img src="logo.png" width= "30%" height= "30%">
+
 
 </p>
 
